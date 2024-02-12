@@ -78,11 +78,11 @@ no one knows whether captured IPs are true, spoofed, or springboarded.
 sshanalysis can generate all IPs with the number of recorded attacks.
 sshanalysis can generate top 10 IPs information associated with locations (country names).
 
-<img src='https://github.com/ytakefuji/sshanalysis/raw/main/neuro.png' width=640 height=480>
-<img src='https://github.com/ytakefuji/sshanalysis/raw/main/gpu1.png' width=640 height=480>
-<img src='https://github.com/ytakefuji/sshanalysis/raw/main/gpu2.png' width=640 height=480>
-<img src='https://github.com/ytakefuji/sshanalysis/raw/main/gpu3.png' width=640 height=480>
-<img src='https://github.com/ytakefuji/sshanalysis/raw/main/gpu4.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/sshanalysis/raw/main/neuro.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/sshanalysis/raw/main/gpu1.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/sshanalysis/raw/main/gpu2.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/sshanalysis/raw/main/gpu3.png' width=640 height=480>
+<img src='https://github.com/y-takefuji/sshanalysis/raw/main/gpu4.png' width=640 height=480>
 
 # sshanalysis.py
 sshanalysis.py consists of three modules. 
